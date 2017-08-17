@@ -18,3 +18,14 @@ Cube Numbers 21
 Cleaning Robot 17
 BATMAN1 12
 BATMAN2 06
+
+
+ABC Path [DONE]
+0110SS [DONE]
+Wachovia Bank [DONE]
+Feynman [DONE]
+Bee Walk [DONE]
+DIE HARD [DONE]
+Non-Decreasing Digits [DONE]
+Adjacent Bit Counts [DONE]
+Blueberries [DONE]
